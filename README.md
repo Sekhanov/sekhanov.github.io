@@ -12,10 +12,13 @@
 
 ### Ключевые навыки  
 - **Языки программирования:** Java, ECMAScript, TypeScript, HTML, CSS3, SQL, Bash  
-- **Фреймворки и библиотеки Backend:** JavaSE, Spring Framework, Spring Boot, Spring MVC, Spring Security, Spring AOP, Spring Data (Spring JDBC, Spring JPA, Hibernate)
-- **Фреймворки и библиотеки Frontend:** ReactJS
+- **Фреймворки и библиотеки**
+   -  **Backend:** JavaSE, Spring Framework, Spring Boot, Spring MVC,  
+Spring Security, Spring AOP, Spring Data (Spring JDBC, Spring JPA, Hibernate)
+   - **Frontend:** ReactJS
+   - **Testing**
 - **Базы данных:** PostgreSQL, Redis, MongoDB  
-- **Инфраструктурные инструменты CI/CD):** Docker, Azure DevOps pipelines
+- **Инфраструктурные инструменты CI/CD):** Docker, Git pipeline
 - **Системы контроля версий:** Git 
 - **Методологии:** Agile (Scrum, Kanban)  
 - **Дополнительно:** REST API, OpenAPI (Swagger), Kafka
