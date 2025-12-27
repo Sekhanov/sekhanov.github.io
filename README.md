@@ -8,7 +8,7 @@
 - Телефон: +7 (920) 672-96-18 
 - E‑mail: dmitry.khanov89@gmail.com  
 - Telegram: [@Dmitry_Khanov](https://t.me/Dmitry_Khanov)
-- GitHub: [github.com/ivan-petrov](https://github.com/dmitrykhanov89)
+- GitHub: [github.com/dmitrykhanov89](https://github.com/dmitrykhanov89)
 
 ### Ключевые навыки  
 - **Языки программирования:** Java, ECMAScript, TypeScript, HTML, CSS3, SQL, Bash  
