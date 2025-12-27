@@ -1,23 +1,24 @@
 ## Ханов Дмитрий Евгеньевич
-**Желаемая должность:** Junior-Middle Java‑разработчик, Junior-Middle React-разарботчик
-**Уровень зарплаты:** от 80,000 руб.  
-**Город:** Иваново (готов к релокации / удалённой работе)  
+
+- **Желаемая должность:** Junior-Middle Java‑разработчик, Junior-Middle React-разарботчик
+- **Уровень зарплаты:** от 80,000 руб.
+- **Город:** Иваново (готов к релокации / удалённой работе)  
 
 ### Контакты  
 - Телефон: +7 (920) 672-96-18 
 - E‑mail: dmitry.khanov89@gmail.com  
-- Telegram: @Dmitry_Khanov 
-- GitHub: github.com/ivan-petrov  
+- Telegram: [@Dmitry_Khanov](https://t.me/Dmitry_Khanov)
+- GitHub: [github.com/ivan-petrov](https://github.com/dmitrykhanov89)
 
 ### Ключевые навыки  
 - **Языки программирования:** Java, ECMAScript, TypeScript, HTML, CSS3, SQL, Bash  
 - **Фреймворки и библиотеки Backend:** Spring Framework, Spring Boot, Spring MVC, Spring Security, Spring AOP, Spring Data (Spring JDBC, Spring JPA, Hibernate)
 - **Фреймворки и библиотеки Frontend:** ReactJS
 - **Базы данных:** PostgreSQL, Redis, MongoDB  
-- **Инфраструктурные инструменты:** Docker, Azure DevOps pipelines
+- **Инфраструктурные инструменты CI/CD):** Docker, Azure DevOps pipelines
 - **Системы контроля версий:** Git 
 - **Методологии:** Agile (Scrum, Kanban)  
-- **Дополнительно:** REST API, OpenAPI (Swagger), Kafka 
+- **Дополнительно:** REST API, OpenAPI (Swagger), Kafka
 - **Английский:** A2 (технический, свободно читаю техническую документацию)  
 
 ### Опыт работы  
