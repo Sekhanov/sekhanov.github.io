@@ -16,7 +16,7 @@
    -  **Backend:** JavaSE, Spring Framework, Spring Boot, Spring MVC,  
 Spring Security, Spring AOP, Spring Data (Spring JDBC, Spring JPA, Hibernate)
    - **Frontend:** ReactJS
-   - **Testing**
+   - **Testing:** Junit, Mockito, Spring testing framework
 - **Базы данных:** PostgreSQL, Redis, MongoDB  
 - **Инфраструктурные инструменты CI/CD):** Docker, Git pipeline
 - **Системы контроля версий:** Git 
